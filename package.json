@@ -8,12 +8,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:@rexxhayanasi/elaina-bail@latest",
+    "@whiskeysockets/baileys": "npm:@ryuu-reinzz/baileys",
     "express": "^4.18.2",
     "fs-extra": "^11.2.0",
     "pino": "^9.7.0",
     "canvas": "latest",
-    "jimp": "0.16.13",
+    "jimp": "^1.6.0",
     "form-data": "latest",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "ffmpeg": "^0.0.4",
